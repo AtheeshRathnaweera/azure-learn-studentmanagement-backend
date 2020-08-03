@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atheesh.studentmanagement.StudentManagementBackeEndApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14 s - in com.atheesh.studentmanagement.StudentManagementBackeEndApplicationTests
